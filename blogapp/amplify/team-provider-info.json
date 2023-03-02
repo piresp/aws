@@ -14,6 +14,9 @@
     "categories": {
       "api": {
         "appsyncblogapp": {}
+      },
+      "auth": {
+        "appsyncblogappa422c379": {}
       }
     }
   }
